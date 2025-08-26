@@ -1,0 +1,5 @@
+Request recorded on : 1756197594050 , The request is coming from route : / and the request status code is null.
+Request recorded on : 1756197600516 , The request is coming from route : / and the request status code is null.
+Request recorded on : 1756197600534 , The request is coming from route : /favicon.ico and the request status code is null.
+Request recorded on : 1756197600688 , The request is coming from route : / and the request status code is null.
+Request recorded on : 1756197600702 , The request is coming from route : /favicon.ico and the request status code is null.

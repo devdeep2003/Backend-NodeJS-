@@ -1,0 +1,3 @@
+Description of Day2:
+
+On Day 2, you learned how to create a simple HTTP server using Node.js. The server listens on port 8080 and records details of each incoming request, such as the timestamp, requested URL, and status code, into a log file named "logs.txt". You used the 'http' module to handle server functionality and the 'fs' module to write logs. This exercise demonstrates basic server creation and file

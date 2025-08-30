@@ -1,0 +1,4 @@
+
+
+Day3 Description:
+On Day 3, you learned how to use the EventEmitter class from Node.js to build an event-driven system for tracking user activities. You created custom events for actions like login, logout, purchase, and profile updates, and used listeners to handle these events. Each event updated a counter and recorded the activity in a JSON log file using the fs module. This exercise demonstrated how to manage application state and persist data using events and file operations in

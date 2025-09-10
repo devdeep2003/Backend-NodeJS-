@@ -7,6 +7,7 @@ const authMiddleware = (req,res,next)=>{
 
     if(token && validateToken(token)){
         req.user = {id:1, name:"Deep Chakraborty", role:"admin"};
+        console.log(req.user);
         next();
     }else{
         res.status(401).send("Unauthorized");
